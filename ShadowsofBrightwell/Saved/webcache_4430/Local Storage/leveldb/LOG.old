@@ -1,2 +1,3 @@
-2025/02/10-13:17:11.160 5294 Creating DB D:/github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/02/10-13:17:11.321 5294 Reusing MANIFEST D:/github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/02/10-13:37:00.407 45f8 Reusing MANIFEST D:/github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/02/10-13:37:00.409 45f8 Recovering log #3
+2025/02/10-13:37:00.409 45f8 Reusing old log D:/github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/webcache_4430\Local Storage\leveldb/000003.log 
