@@ -1606,3 +1606,1027 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.17-13.19.21:961][190]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2051.195557
 [2025.02.17-13.19.22:962][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.17-13.19.22:962][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2051.863281, Update Interval: 313.982361
+[2025.02.17-13.25.12:730][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2401.967041
+[2025.02.17-13.25.13:731][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-13.25.13:731][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2402.634033, Update Interval: 311.371185
+[2025.02.17-13.31.12:196][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2761.432617
+[2025.02.17-13.31.13:196][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-13.31.13:196][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2762.099609, Update Interval: 311.479218
+[2025.02.17-13.37.21:616][442]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3130.851318
+[2025.02.17-13.37.22:616][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-13.37.22:616][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3131.518066, Update Interval: 335.697510
+[2025.02.17-13.43.34:048][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3503.284912
+[2025.02.17-13.43.35:049][562]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-13.43.35:049][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3503.951904, Update Interval: 320.572540
+[2025.02.17-13.44.05:210][930]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.02.17-13.44.11:479][436]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.02.17-13.44.11:479][436]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.02.17-13.44.11:482][436]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/HollowayCabin.HollowayCabin:PersistentLevel.StaticMeshActor_UAID_00D861D94DBF374D02_1982230491
+[2025.02.17-13.44.11:483][436]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/HollowayCabin.HollowayCabin:PersistentLevel.StaticMeshActor_UAID_00D861D94DBF374D02_1982230491
+[2025.02.17-13.44.27:468][458]Cmd: TRANSACTION UNDO
+[2025.02.17-13.44.27:468][458]LogEditorTransaction: Undo Set Scale
+[2025.02.17-13.44.48:355][821]Cmd: EDIT COPY
+[2025.02.17-13.44.48:581][835]Cmd: EDIT PASTE
+[2025.02.17-13.44.55:696][269]Cmd: DELETE
+[2025.02.17-13.44.55:696][269]Cmd: ACTOR DELETE
+[2025.02.17-13.44.55:946][269]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.17-13.44.55:975][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.02.17-13.44.55:978][269]LogEditorActor: Deleted 1 Actors (0.282 secs)
+[2025.02.17-13.44.57:158][335]Cmd: EDIT COPY
+[2025.02.17-13.44.57:428][351]Cmd: EDIT PASTE
+[2025.02.17-13.45.00:422][544]Cmd: EDIT COPY
+[2025.02.17-13.45.00:620][556]Cmd: EDIT PASTE
+[2025.02.17-13.45.03:416][731]Cmd: EDIT COPY
+[2025.02.17-13.45.03:629][744]Cmd: EDIT PASTE
+[2025.02.17-13.45.18:132][775]Cmd: EDIT COPY
+[2025.02.17-13.45.18:415][794]Cmd: EDIT PASTE
+[2025.02.17-13.45.21:863][ 29]Cmd: EDIT COPY
+[2025.02.17-13.45.22:037][ 39]Cmd: EDIT PASTE
+[2025.02.17-13.45.24:491][198]Cmd: EDIT COPY
+[2025.02.17-13.45.24:794][218]Cmd: EDIT PASTE
+[2025.02.17-13.45.27:094][369]LogDerivedDataCache: C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.17-13.45.27:273][381]Cmd: EDIT COPY
+[2025.02.17-13.45.27:528][397]Cmd: EDIT PASTE
+[2025.02.17-13.45.32:882][742]Cmd: EDIT COPY
+[2025.02.17-13.45.33:231][765]Cmd: EDIT PASTE
+[2025.02.17-13.45.35:937][950]Cmd: EDIT COPY
+[2025.02.17-13.45.36:134][963]Cmd: EDIT PASTE
+[2025.02.17-13.45.41:567][344]Cmd: EDIT COPY
+[2025.02.17-13.45.41:818][361]Cmd: EDIT PASTE
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: ================================================
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Total job queries 418, among them cache hits 116 (27.75%), DDC hits 296 (70.81%), Duplicates 4 (0.96%)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Tracking 298 distinct input hashes that result in 254 distinct outputs (85.23%)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: RAM used: 158.82 KiB of 2.40 GiB budget. Usage: 0.01%
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Average time worker was idle: 3453.39 s
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Job execution time: average 5.07 s, max 5.65 s
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Job life time (pending + execution): average 5.13 s, max 5.73
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Shader code size: average 13.432 KiB, min 7.621 KiB, max 24.676 KiB
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.27 s
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Average processing rate: 0.19 jobs/sec
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Total thread time: 6.354 s
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Total thread preprocess time: 7.266 s
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Percentage time preprocessing: 114.36%
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Effective parallelization: 0.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 5.21 sec, max 5.21 sec, min 5.21 sec)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 82.05% of total time (compiled    1 times, average 5.21 sec, max 5.21 sec, min 5.21 sec)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 11.79% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 6.16% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: === Material stats ===
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Materials Translated:    154
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Material Total Translate Time: 0.65 s
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Material Translation Only: 0.12 s (19%)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: Material Cache Hits: 29 (19%)
+[2025.02.17-13.45.47:037][729]LogShaderCompilers: Display: ================================================
+[2025.02.17-13.45.47:246][745]Cmd: DELETE
+[2025.02.17-13.45.47:246][745]Cmd: ACTOR DELETE
+[2025.02.17-13.45.47:253][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.17-13.45.47:272][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.02.17-13.45.47:274][745]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.02.17-13.45.49:031][861]Cmd: DELETE
+[2025.02.17-13.45.49:031][861]Cmd: ACTOR DELETE
+[2025.02.17-13.45.49:036][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.17-13.45.49:055][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.02.17-13.45.49:058][861]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.02.17-13.45.57:813][446]Cmd: EDIT COPY
+[2025.02.17-13.45.57:813][446]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2025.02.17-13.46.06:969][ 42]Cmd: EDIT COPY
+[2025.02.17-13.46.07:194][ 58]Cmd: EDIT PASTE
+[2025.02.17-13.46.15:324][574]Cmd: EDIT COPY
+[2025.02.17-13.46.15:598][591]Cmd: EDIT PASTE
+[2025.02.17-13.46.25:171][209]Cmd: SELECT NONE
+[2025.02.17-13.46.56:397][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.17-13.46.56:400][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/A/2Z/E481E7G9CQO8CF02EY7PK2_Auto2
+[2025.02.17-13.46.56:400][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/E481E7G9CQO8CF02EY7PK2_Auto2135FB700483572936442F6BE77855E4B.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/A/2Z/E481E7G9CQO8CF02EY7PK2_Auto2.uasset'
+[2025.02.17-13.46.56:402][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/7/WJ/CV787DOTBV0OR5HRL4X3W8_Auto2
+[2025.02.17-13.46.56:403][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/CV787DOTBV0OR5HRL4X3W8_Auto20E8441014AD319550E333DA15B3911DE.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/7/WJ/CV787DOTBV0OR5HRL4X3W8_Auto2.uasset'
+[2025.02.17-13.46.56:405][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/2/AB/X6Z561THJ2PE9LKES9SJUI_Auto2
+[2025.02.17-13.46.56:405][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/X6Z561THJ2PE9LKES9SJUI_Auto2E71452F34805FC78645C428123EBD976.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/2/AB/X6Z561THJ2PE9LKES9SJUI_Auto2.uasset'
+[2025.02.17-13.46.56:415][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/0/FZ/NRALDKV1VAH54OHD3GX8ZC_Auto2
+[2025.02.17-13.46.56:415][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/NRALDKV1VAH54OHD3GX8ZC_Auto2CF8DCB6F40BD6F93AF8F85803043CCBA.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/0/FZ/NRALDKV1VAH54OHD3GX8ZC_Auto2.uasset'
+[2025.02.17-13.46.56:420][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/F/05/QY17EK1MZHHREZ9KSFVM1G_Auto2
+[2025.02.17-13.46.56:420][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/QY17EK1MZHHREZ9KSFVM1G_Auto2374C9C1A4FFE7A4B54694E99B8D4056B.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/F/05/QY17EK1MZHHREZ9KSFVM1G_Auto2.uasset'
+[2025.02.17-13.46.56:422][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/B/DF/GBU1VMNTHFGMCBTFVCV5QU_Auto2
+[2025.02.17-13.46.56:422][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/GBU1VMNTHFGMCBTFVCV5QU_Auto2A28C3C924A41A4CBB3D399BBA3E2B228.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/B/DF/GBU1VMNTHFGMCBTFVCV5QU_Auto2.uasset'
+[2025.02.17-13.46.56:424][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/D/92/FHKVQE0BVY4H7DCFGPDJBD_Auto2
+[2025.02.17-13.46.56:425][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/FHKVQE0BVY4H7DCFGPDJBD_Auto2C428514545D9365FB40E38B64F447B7D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/D/92/FHKVQE0BVY4H7DCFGPDJBD_Auto2.uasset'
+[2025.02.17-13.46.56:428][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/0/5P/26O3US96YTU1RU8ZWR28MB_Auto2
+[2025.02.17-13.46.56:428][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/26O3US96YTU1RU8ZWR28MB_Auto208B0D93244A21635FFD8FC93448080C9.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/0/5P/26O3US96YTU1RU8ZWR28MB_Auto2.uasset'
+[2025.02.17-13.46.56:431][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/7/1N/HBJIDWSVWWH606SZLGUBZE_Auto2
+[2025.02.17-13.46.56:431][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/HBJIDWSVWWH606SZLGUBZE_Auto2D706817D4C4F8152A6C58E87F523B007.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/7/1N/HBJIDWSVWWH606SZLGUBZE_Auto2.uasset'
+[2025.02.17-13.46.56:434][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/E/WV/XKW7JJQB5XEBKQ6LISKEC0_Auto2
+[2025.02.17-13.46.56:434][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/XKW7JJQB5XEBKQ6LISKEC0_Auto2D457AFD84C4595D3058B309E6992C54A.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/E/WV/XKW7JJQB5XEBKQ6LISKEC0_Auto2.uasset'
+[2025.02.17-13.46.56:437][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/A/RB/WLV1N5S1S489SAXCKKPQG8_Auto2
+[2025.02.17-13.46.56:437][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/WLV1N5S1S489SAXCKKPQG8_Auto22BFFD8F04AE7B18E26F9A4AB598F5D08.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/A/RB/WLV1N5S1S489SAXCKKPQG8_Auto2.uasset'
+[2025.02.17-13.46.56:440][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/6/1D/3ADHKR9XWC0SHH7PGYBSXH_Auto2
+[2025.02.17-13.46.56:440][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/3ADHKR9XWC0SHH7PGYBSXH_Auto2DA72E3DB45B5CE6FB7DAE1A58F67AB7C.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/6/1D/3ADHKR9XWC0SHH7PGYBSXH_Auto2.uasset'
+[2025.02.17-13.46.56:444][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/4/EO/CE5VI2G2Y7KDIXN7N7OBAO_Auto2
+[2025.02.17-13.46.56:444][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/CE5VI2G2Y7KDIXN7N7OBAO_Auto2CBEBAFFA40146BE49ABBA096EAF7DE5A.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/4/EO/CE5VI2G2Y7KDIXN7N7OBAO_Auto2.uasset'
+[2025.02.17-13.46.56:448][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/C/7X/PO89SXWG4R8LWJ0YNRVZKA_Auto2
+[2025.02.17-13.46.56:448][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PO89SXWG4R8LWJ0YNRVZKA_Auto248E03A314B082315D13DF49FF5BEE229.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/C/7X/PO89SXWG4R8LWJ0YNRVZKA_Auto2.uasset'
+[2025.02.17-13.46.56:451][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/9/WL/LJIEKJ2ZR5P1VBF10OF7IW_Auto2
+[2025.02.17-13.46.56:451][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/LJIEKJ2ZR5P1VBF10OF7IW_Auto2A8B2E9A34CDF87C5798AA2A6B4BAFD97.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/9/WL/LJIEKJ2ZR5P1VBF10OF7IW_Auto2.uasset'
+[2025.02.17-13.46.56:454][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/A/SV/8NFCI1JT8YD73KQGV176HG_Auto2
+[2025.02.17-13.46.56:454][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/8NFCI1JT8YD73KQGV176HG_Auto2A86BABC84964B821B13533AD6ED5BA25.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/A/SV/8NFCI1JT8YD73KQGV176HG_Auto2.uasset'
+[2025.02.17-13.46.56:457][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/C/HQ/FEZHLJWVB7BPF9DT68250T_Auto2
+[2025.02.17-13.46.56:457][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/FEZHLJWVB7BPF9DT68250T_Auto209437EC146458D05085C55990EE5D8AE.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/C/HQ/FEZHLJWVB7BPF9DT68250T_Auto2.uasset'
+[2025.02.17-13.46.56:461][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/6/HU/K03OFHNKXCFLOCW5XTFEDQ_Auto2
+[2025.02.17-13.46.56:461][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/K03OFHNKXCFLOCW5XTFEDQ_Auto2650F11B948B8AF621E7F70A733754C7B.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/6/HU/K03OFHNKXCFLOCW5XTFEDQ_Auto2.uasset'
+[2025.02.17-13.46.56:464][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/2/W7/DR5FGVGLYRO0S6MRDR4B7Z_Auto2
+[2025.02.17-13.46.56:464][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/DR5FGVGLYRO0S6MRDR4B7Z_Auto2F73C232F48D5B1B583B0D58D6DC2ECB9.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/2/W7/DR5FGVGLYRO0S6MRDR4B7Z_Auto2.uasset'
+[2025.02.17-13.46.56:466][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/3/0W/CC9XJDOFISBL5AZ9NQR3TY_Auto2
+[2025.02.17-13.46.56:466][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/CC9XJDOFISBL5AZ9NQR3TY_Auto2AB8844384506216145327F81E5194398.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/3/0W/CC9XJDOFISBL5AZ9NQR3TY_Auto2.uasset'
+[2025.02.17-13.46.56:470][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/7/FA/QEZKTR8FSPT8O4BG9V5HCU_Auto2
+[2025.02.17-13.46.56:470][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/QEZKTR8FSPT8O4BG9V5HCU_Auto25A264E6E4A2E2799DD4FA8998885B73E.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/7/FA/QEZKTR8FSPT8O4BG9V5HCU_Auto2.uasset'
+[2025.02.17-13.46.56:472][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/E/SN/NDWD55UYE4WBRU2YJM5KX9_Auto2
+[2025.02.17-13.46.56:472][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/NDWD55UYE4WBRU2YJM5KX9_Auto26A48FCD04CB159D06FF1299C8B242A28.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/E/SN/NDWD55UYE4WBRU2YJM5KX9_Auto2.uasset'
+[2025.02.17-13.46.56:475][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/0/NC/T06FIE0RK1IUCI2TZYV2Y6_Auto2
+[2025.02.17-13.46.56:475][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/T06FIE0RK1IUCI2TZYV2Y6_Auto234708307463DAC6D9D2315A1B365FCB1.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/0/NC/T06FIE0RK1IUCI2TZYV2Y6_Auto2.uasset'
+[2025.02.17-13.46.56:478][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/3/BT/PEFRV86QSVTL4FZA7J2QZN_Auto2
+[2025.02.17-13.46.56:478][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PEFRV86QSVTL4FZA7J2QZN_Auto27916075540AF3FAA478945B7D238FC03.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/3/BT/PEFRV86QSVTL4FZA7J2QZN_Auto2.uasset'
+[2025.02.17-13.46.56:481][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/1/8B/PNIAUATP6Q4SMVFTN43RLY_Auto2
+[2025.02.17-13.46.56:481][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PNIAUATP6Q4SMVFTN43RLY_Auto298FC0DAF48417E2A9D11D49AA57A6597.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/1/8B/PNIAUATP6Q4SMVFTN43RLY_Auto2.uasset'
+[2025.02.17-13.46.56:484][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/7/I0/FCCAES1BL4WHAB71Z6XLRC_Auto2
+[2025.02.17-13.46.56:484][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/FCCAES1BL4WHAB71Z6XLRC_Auto2250975D7412F4DC3C3786495B28A399C.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/7/I0/FCCAES1BL4WHAB71Z6XLRC_Auto2.uasset'
+[2025.02.17-13.46.56:486][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/A/HR/8UQW8YSXEUETUBSHNINO1Y_Auto2
+[2025.02.17-13.46.56:486][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/8UQW8YSXEUETUBSHNINO1Y_Auto21F6DFC594B6A3FBA7916E2BB5134AEE6.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/A/HR/8UQW8YSXEUETUBSHNINO1Y_Auto2.uasset'
+[2025.02.17-13.46.56:489][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/0/NQ/PC1RYGBOPUUF34ZV4RKIF2_Auto2
+[2025.02.17-13.46.56:489][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PC1RYGBOPUUF34ZV4RKIF2_Auto254FDC8584178DE62E36AD89566DD3289.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/0/NQ/PC1RYGBOPUUF34ZV4RKIF2_Auto2.uasset'
+[2025.02.17-13.46.56:492][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/5/6O/WV0SLQ4Y8XI8CMKTENKB6W_Auto2
+[2025.02.17-13.46.56:492][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/WV0SLQ4Y8XI8CMKTENKB6W_Auto2908D86314D83C8EBE79EABAA15BDB273.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/5/6O/WV0SLQ4Y8XI8CMKTENKB6W_Auto2.uasset'
+[2025.02.17-13.46.56:494][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/5/4H/PSTH2RNSO2ZLLGHSHZDTE8_Auto2
+[2025.02.17-13.46.56:494][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PSTH2RNSO2ZLLGHSHZDTE8_Auto27EF04D75403CE85214672C84B81792D7.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/5/4H/PSTH2RNSO2ZLLGHSHZDTE8_Auto2.uasset'
+[2025.02.17-13.46.56:497][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/0/CX/FXM81SPQ04GL2RFEP7LE99_Auto2
+[2025.02.17-13.46.56:497][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/FXM81SPQ04GL2RFEP7LE99_Auto2819782D14D2B64B2346CB1BEB4889529.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/0/CX/FXM81SPQ04GL2RFEP7LE99_Auto2.uasset'
+[2025.02.17-13.46.56:499][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/HollowayCabin/5/KA/AEA80LQEDWLEZW7BMSEZDD_Auto2
+[2025.02.17-13.46.56:499][731]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/AEA80LQEDWLEZW7BMSEZDD_Auto27744DCF3402033110EAC4F90B817AED9.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Autosaves/Game/__ExternalActors__/HollowayCabin/5/KA/AEA80LQEDWLEZW7BMSEZDD_Auto2.uasset'
+[2025.02.17-13.46.56:501][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HollowayCabin' took 0.119
+[2025.02.17-13.46.56:501][731]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.119
+[2025.02.17-13.49.39:030][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3868.265137
+[2025.02.17-13.49.40:030][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-13.49.40:030][222]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3868.931152, Update Interval: 334.424866
+[2025.02.17-13.55.58:776][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4248.014160
+[2025.02.17-13.55.59:776][361]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-13.55.59:776][361]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4248.680664, Update Interval: 332.579132
+[2025.02.17-14.02.12:526][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4621.764648
+[2025.02.17-14.02.13:535][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-14.02.13:535][482]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4622.438477, Update Interval: 302.821747
+[2025.02.17-14.08.09:605][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4978.857422
+[2025.02.17-14.08.10:603][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-14.08.10:603][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4979.522949, Update Interval: 310.635101
+[2025.02.17-14.14.03:027][610]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5332.280762
+[2025.02.17-14.14.04:025][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-14.14.04:025][613]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5332.945312, Update Interval: 347.367157
+[2025.02.17-14.20.46:891][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5736.149414
+[2025.02.17-14.20.47:893][824]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-14.20.47:893][824]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5736.817383, Update Interval: 308.415771
+[2025.02.17-14.26.41:056][883]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6090.313477
+[2025.02.17-14.26.42:057][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-14.26.42:057][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6090.981934, Update Interval: 346.733612
+[2025.02.17-14.33.11:828][ 55]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6481.076660
+[2025.02.17-14.33.12:827][ 58]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-14.33.12:828][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6481.742676, Update Interval: 302.832733
+[2025.02.17-14.39.05:256][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6834.502441
+[2025.02.17-14.39.06:257][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-14.39.06:257][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6835.170898, Update Interval: 352.406372
+[2025.02.17-14.44.13:654][ 40]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 973...a7f
+[2025.02.17-14.44.13:654][ 40]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.74 RefreshExpires: 1.554e+07
+[2025.02.17-14.44.14:655][ 43]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 973...a7f Access[Expires: 2025.02.17-16.44.11 Remaining: 7200.72] Refresh[Expires: 2025-08-16T12:45:50.745Z Remaining: 15544899.74] State: Valid
+[2025.02.17-14.45.27:094][261]LogDerivedDataCache: C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.17-14.45.35:668][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7224.916016
+[2025.02.17-14.45.36:669][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-14.45.36:669][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7225.602051, Update Interval: 316.807770
+[2025.02.17-14.51.39:079][376]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7588.332031
+[2025.02.17-14.51.40:079][379]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-14.51.40:079][379]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7588.998047, Update Interval: 318.007141
+[2025.02.17-14.57.46:898][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7956.146973
+[2025.02.17-14.57.47:898][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-14.57.47:898][482]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7956.813965, Update Interval: 300.384521
+[2025.02.17-15.03.39:340][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8308.579102
+[2025.02.17-15.03.40:340][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-15.03.40:340][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8309.246094, Update Interval: 303.451630
+[2025.02.17-15.09.30:437][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8659.641602
+[2025.02.17-15.09.31:438][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-15.09.31:438][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8660.307617, Update Interval: 322.881561
+[2025.02.17-15.15.29:165][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9018.375977
+[2025.02.17-15.15.30:167][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-15.15.30:167][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9019.043945, Update Interval: 335.316620
+[2025.02.17-15.21.52:594][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9401.798828
+[2025.02.17-15.21.53:596][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-15.21.53:596][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9402.465820, Update Interval: 345.878479
+[2025.02.17-15.28.30:030][  7]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9799.225586
+[2025.02.17-15.28.31:040][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-15.28.31:040][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9799.892578, Update Interval: 313.726013
+[2025.02.17-15.34.35:102][102]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10164.279297
+[2025.02.17-15.34.36:101][105]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-15.34.36:101][105]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10164.945312, Update Interval: 303.777588
+[2025.02.17-15.40.36:198][185]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10525.366211
+[2025.02.17-15.40.37:197][188]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-15.40.37:197][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10526.032227, Update Interval: 307.677856
+[2025.02.17-15.45.27:094][ 58]LogDerivedDataCache: C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.17-15.46.31:300][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10880.479492
+[2025.02.17-15.46.32:300][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-15.46.32:300][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10881.147461, Update Interval: 331.749634
+[2025.02.17-15.52.35:693][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11244.869141
+[2025.02.17-15.52.36:692][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-15.52.36:692][347]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11245.538086, Update Interval: 341.472839
+[2025.02.17-15.58.58:529][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11627.709961
+[2025.02.17-15.58.59:529][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-15.58.59:529][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11628.375977, Update Interval: 358.619354
+[2025.02.17-16.05.29:661][664]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12018.825195
+[2025.02.17-16.05.30:661][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-16.05.30:661][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12019.493164, Update Interval: 345.792419
+[2025.02.17-16.11.49:756][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12398.901367
+[2025.02.17-16.11.50:756][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-16.11.50:756][807]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12399.569336, Update Interval: 341.610168
+[2025.02.17-16.18.26:577][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12795.715820
+[2025.02.17-16.18.27:576][997]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-16.18.27:576][997]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12796.380859, Update Interval: 305.306549
+[2025.02.17-16.24.08:643][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13137.756836
+[2025.02.17-16.24.09:643][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-16.24.09:643][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13138.423828, Update Interval: 349.786072
+[2025.02.17-16.30.32:715][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13521.801758
+[2025.02.17-16.30.33:714][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-16.30.33:714][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13522.467773, Update Interval: 304.683990
+[2025.02.17-16.36.15:431][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13864.490234
+[2025.02.17-16.36.16:432][203]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-16.36.16:432][203]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13865.158203, Update Interval: 333.077179
+[2025.02.17-16.42.30:816][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14239.830078
+[2025.02.17-16.42.31:816][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-16.42.31:816][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14240.497070, Update Interval: 324.857330
+[2025.02.17-16.42.35:149][339]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 973...a7f
+[2025.02.17-16.42.35:149][339]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.72 RefreshExpires: 1.554e+07
+[2025.02.17-16.42.36:149][342]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 973...a7f Access[Expires: 2025.02.17-18.42.33 Remaining: 7200.40] Refresh[Expires: 2025-08-16T12:45:50.745Z Remaining: 15537797.74] State: Valid
+[2025.02.17-16.45.27:095][855]LogDerivedDataCache: C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.17-16.48.50:390][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14619.375000
+[2025.02.17-16.48.51:390][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-16.48.51:390][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14620.041016, Update Interval: 322.705780
+[2025.02.17-16.55.05:809][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14994.771484
+[2025.02.17-16.55.06:810][594]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-16.55.06:810][594]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14995.437500, Update Interval: 309.811096
+[2025.02.17-17.01.02:505][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15351.465820
+[2025.02.17-17.01.03:505][662]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-17.01.03:505][662]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15352.132812, Update Interval: 307.404999
+[2025.02.17-17.06.54:679][716]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15703.623047
+[2025.02.17-17.06.55:678][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-17.06.55:678][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15704.288086, Update Interval: 303.636597
+[2025.02.17-17.12.42:792][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16051.755859
+[2025.02.17-17.12.43:793][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-17.12.43:793][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16052.421875, Update Interval: 327.849365
+[2025.02.17-17.18.46:552][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16415.521484
+[2025.02.17-17.18.47:552][853]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-17.18.47:552][853]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16416.187500, Update Interval: 322.890717
+[2025.02.17-17.24.45:636][928]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16774.712891
+[2025.02.17-17.24.46:633][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-17.24.46:633][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16775.376953, Update Interval: 318.294617
+[2025.02.17-17.30.53:076][ 29]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17142.203125
+[2025.02.17-17.30.54:075][ 32]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-17.30.54:075][ 32]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17142.869141, Update Interval: 330.010071
+[2025.02.17-17.37.19:486][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17528.718750
+[2025.02.17-17.37.20:487][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-17.37.20:487][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17529.386719, Update Interval: 307.776733
+[2025.02.17-17.43.15:277][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17884.607422
+[2025.02.17-17.43.16:286][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-17.43.16:287][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17885.289062, Update Interval: 350.137634
+[2025.02.17-17.45.27:096][651]LogDerivedDataCache: C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.17-17.49.39:470][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18268.894531
+[2025.02.17-17.49.40:470][410]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-17.49.40:470][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18269.560547, Update Interval: 316.848053
+[2025.02.17-17.55.41:324][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18630.871094
+[2025.02.17-17.55.42:323][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-17.55.42:323][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18631.537109, Update Interval: 336.739410
+[2025.02.17-18.02.12:835][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19022.628906
+[2025.02.17-18.02.13:835][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-18.02.13:835][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19023.296875, Update Interval: 303.180634
+[2025.02.17-18.08.05:977][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19375.916016
+[2025.02.17-18.08.06:977][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-18.08.06:977][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19376.582031, Update Interval: 357.037262
+[2025.02.17-18.14.45:809][924]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19775.849609
+[2025.02.17-18.14.46:809][927]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-18.14.46:809][927]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19776.517578, Update Interval: 345.409698
+[2025.02.17-18.21.25:222][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20175.632812
+[2025.02.17-18.21.26:222][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-18.21.26:222][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20176.300781, Update Interval: 341.610168
+[2025.02.17-18.27.48:670][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20559.423828
+[2025.02.17-18.27.49:670][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-18.27.49:670][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20560.091797, Update Interval: 324.593658
+[2025.02.17-18.33.44:509][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20915.476562
+[2025.02.17-18.33.45:510][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-18.33.45:510][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20916.142578, Update Interval: 352.562012
+[2025.02.17-18.40.30:605][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21321.986328
+[2025.02.17-18.40.31:605][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-18.40.31:605][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21322.654297, Update Interval: 312.673126
+[2025.02.17-18.40.56:608][635]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 973...a7f
+[2025.02.17-18.40.56:608][635]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.73 RefreshExpires: 1.553e+07
+[2025.02.17-18.40.57:608][638]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 973...a7f Access[Expires: 2025.02.17-20.40.55 Remaining: 7200.01] Refresh[Expires: 2025-08-16T12:45:50.745Z Remaining: 15530695.74] State: Valid
+[2025.02.17-18.45.27:097][447]LogDerivedDataCache: C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.17-18.46.20:026][605]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21671.736328
+[2025.02.17-18.46.21:026][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-18.46.21:026][608]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21672.404297, Update Interval: 355.257416
+[2025.02.17-18.52.53:474][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22065.414062
+[2025.02.17-18.52.54:474][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-18.52.54:474][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22066.082031, Update Interval: 346.191589
+[2025.02.17-18.59.24:229][957]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22456.355469
+[2025.02.17-18.59.25:229][960]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-18.59.25:229][960]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22457.023438, Update Interval: 342.787567
+[2025.02.17-19.06.00:006][144]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22852.332031
+[2025.02.17-19.06.01:006][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-19.06.01:006][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22853.000000, Update Interval: 308.115479
+[2025.02.17-19.11.40:409][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23192.935547
+[2025.02.17-19.11.41:409][168]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-19.11.41:409][168]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23193.603516, Update Interval: 311.645874
+[2025.02.17-19.17.30:812][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23543.628906
+[2025.02.17-19.17.31:813][219]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-19.17.31:813][219]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23544.296875, Update Interval: 349.621277
+[2025.02.17-19.23.58:227][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23931.320312
+[2025.02.17-19.23.59:226][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-19.23.59:227][381]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23931.988281, Update Interval: 322.804657
+[2025.02.17-19.30.20:319][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24313.572266
+[2025.02.17-19.30.21:320][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-19.30.21:320][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24314.240234, Update Interval: 324.104736
+[2025.02.17-19.36.40:439][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24693.769531
+[2025.02.17-19.36.41:440][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-19.36.41:440][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24694.435547, Update Interval: 358.877533
+[2025.02.17-19.43.31:318][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25104.732422
+[2025.02.17-19.43.32:320][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-19.43.32:320][899]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25105.400391, Update Interval: 333.203522
+[2025.02.17-19.45.27:097][244]LogDerivedDataCache: C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.17-19.49.47:431][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25480.873047
+[2025.02.17-19.49.48:429][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-19.49.48:429][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25481.537109, Update Interval: 357.528015
+[2025.02.17-19.56.38:869][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25892.546875
+[2025.02.17-19.56.39:868][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-19.56.39:868][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25893.214844, Update Interval: 322.436584
+[2025.02.17-20.02.54:271][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26268.341797
+[2025.02.17-20.02.55:271][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-20.02.55:271][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26269.007812, Update Interval: 307.333588
+[2025.02.17-20.09.00:682][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26634.998047
+[2025.02.17-20.09.01:682][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-20.09.01:682][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26635.666016, Update Interval: 359.014862
+[2025.02.17-20.15.35:782][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27030.423828
+[2025.02.17-20.15.36:783][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-20.15.36:783][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27031.091797, Update Interval: 303.001190
+[2025.02.17-20.21.36:249][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27391.187500
+[2025.02.17-20.21.37:250][753]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-20.21.37:250][753]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27391.855469, Update Interval: 303.654907
+[2025.02.17-20.27.11:323][754]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27726.587891
+[2025.02.17-20.27.12:323][757]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-20.27.12:323][757]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27727.253906, Update Interval: 306.758636
+[2025.02.17-20.33.06:526][819]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28081.974609
+[2025.02.17-20.33.07:526][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-20.33.07:526][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28082.642578, Update Interval: 318.312927
+[2025.02.17-20.38.34:834][128]Cmd: EDIT COPY
+[2025.02.17-20.38.35:060][136]Cmd: EDIT PASTE
+[2025.02.17-20.38.54:032][466]Cmd: EDIT COPY
+[2025.02.17-20.38.54:294][482]Cmd: EDIT PASTE
+[2025.02.17-20.38.58:228][750]Cmd: EDIT COPY
+[2025.02.17-20.38.58:608][775]Cmd: EDIT PASTE
+[2025.02.17-20.39.03:561][115]Cmd: EDIT COPY
+[2025.02.17-20.39.03:801][130]Cmd: EDIT PASTE
+[2025.02.17-20.39.07:046][331]Cmd: EDIT COPY
+[2025.02.17-20.39.07:301][347]Cmd: EDIT PASTE
+[2025.02.17-20.39.09:897][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28445.644531
+[2025.02.17-20.39.10:038][535]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-20.39.10:038][535]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28445.769531, Update Interval: 352.875153
+[2025.02.17-20.39.17:099][ 33]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 973...a7f
+[2025.02.17-20.39.17:099][ 33]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.552e+07
+[2025.02.17-20.39.17:286][ 46]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 973...a7f Access[Expires: 2025.02.17-22.39.15 Remaining: 7200.35] Refresh[Expires: 2025-08-16T12:45:50.745Z Remaining: 15523595.74] State: Valid
+[2025.02.17-20.39.20:790][297]Cmd: TRANSACTION UNDO
+[2025.02.17-20.39.20:790][297]LogEditorTransaction: Undo Set Location
+[2025.02.17-20.39.28:733][842]Cmd: EDIT COPY
+[2025.02.17-20.39.28:997][859]Cmd: EDIT PASTE
+[2025.02.17-20.39.32:444][ 95]Cmd: EDIT COPY
+[2025.02.17-20.39.32:674][110]Cmd: EDIT PASTE
+[2025.02.17-20.39.35:787][316]Cmd: EDIT COPY
+[2025.02.17-20.39.35:989][329]Cmd: EDIT PASTE
+[2025.02.17-20.39.38:522][495]Cmd: EDIT COPY
+[2025.02.17-20.39.38:739][508]Cmd: EDIT PASTE
+[2025.02.17-20.39.40:650][625]Cmd: EDIT COPY
+[2025.02.17-20.39.40:911][642]Cmd: EDIT PASTE
+[2025.02.17-20.39.42:484][739]Cmd: EDIT COPY
+[2025.02.17-20.39.42:705][753]Cmd: EDIT PASTE
+[2025.02.17-20.39.50:371][242]Cmd: EDIT COPY
+[2025.02.17-20.39.50:610][258]Cmd: EDIT PASTE
+[2025.02.17-20.39.57:223][704]Cmd: TRANSACTION UNDO
+[2025.02.17-20.39.57:224][704]LogEditorTransaction: Undo Set Scale
+[2025.02.17-20.39.59:423][832]Cmd: TRANSACTION UNDO
+[2025.02.17-20.39.59:423][832]LogEditorTransaction: Undo Set Scale
+[2025.02.17-20.40.11:609][687]Cmd: TRANSACTION UNDO
+[2025.02.17-20.40.11:609][687]LogEditorTransaction: Undo Set Location
+[2025.02.17-20.40.15:149][887]Cmd: SELECT NONE
+[2025.02.17-20.40.23:455][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-20.40.23:546][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.02.17-20.40.23:561][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.17-20.40.23:574][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.17-20.40.23:576][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/A/2Z/E481E7G9CQO8CF02EY7PK2
+[2025.02.17-20.40.23:576][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/E481E7G9CQO8CF02EY7PK2ACC1831444F96D9AFE73D58A152E2A8A.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/A/2Z/E481E7G9CQO8CF02EY7PK2.uasset'
+[2025.02.17-20.40.23:600][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/7/WJ/CV787DOTBV0OR5HRL4X3W8
+[2025.02.17-20.40.23:600][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/CV787DOTBV0OR5HRL4X3W89D3EFC0347BF031A14C60A84C2DDEA4D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/7/WJ/CV787DOTBV0OR5HRL4X3W8.uasset'
+[2025.02.17-20.40.23:602][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/2/AB/X6Z561THJ2PE9LKES9SJUI
+[2025.02.17-20.40.23:602][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/X6Z561THJ2PE9LKES9SJUICF09A37344C379A8FFFF4CBCEABC4F50.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/2/AB/X6Z561THJ2PE9LKES9SJUI.uasset'
+[2025.02.17-20.40.23:612][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/FZ/NRALDKV1VAH54OHD3GX8ZC
+[2025.02.17-20.40.23:612][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/NRALDKV1VAH54OHD3GX8ZCA341F5464A1B50CD4421D0B7DAA8E08D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/FZ/NRALDKV1VAH54OHD3GX8ZC.uasset'
+[2025.02.17-20.40.23:614][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/F/05/QY17EK1MZHHREZ9KSFVM1G
+[2025.02.17-20.40.23:615][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/QY17EK1MZHHREZ9KSFVM1GB416E36148D1BA8DDC835088C8C2F54D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/F/05/QY17EK1MZHHREZ9KSFVM1G.uasset'
+[2025.02.17-20.40.23:617][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/B/DF/GBU1VMNTHFGMCBTFVCV5QU
+[2025.02.17-20.40.23:617][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/GBU1VMNTHFGMCBTFVCV5QU307BF0D84F5E7647E90AFEA8DC85BEB3.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/B/DF/GBU1VMNTHFGMCBTFVCV5QU.uasset'
+[2025.02.17-20.40.23:619][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/D/92/FHKVQE0BVY4H7DCFGPDJBD
+[2025.02.17-20.40.23:619][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/FHKVQE0BVY4H7DCFGPDJBD7494B7404497EDA1603828B837E3AC87.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/D/92/FHKVQE0BVY4H7DCFGPDJBD.uasset'
+[2025.02.17-20.40.23:622][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/5P/26O3US96YTU1RU8ZWR28MB
+[2025.02.17-20.40.23:622][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/26O3US96YTU1RU8ZWR28MB3CE158CF4FD0DAD1C6076F9ED775E08F.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/5P/26O3US96YTU1RU8ZWR28MB.uasset'
+[2025.02.17-20.40.23:624][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/7/1N/HBJIDWSVWWH606SZLGUBZE
+[2025.02.17-20.40.23:625][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/HBJIDWSVWWH606SZLGUBZE42AFC7774DFE63814E603E9A70409272.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/7/1N/HBJIDWSVWWH606SZLGUBZE.uasset'
+[2025.02.17-20.40.23:642][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/E/WV/XKW7JJQB5XEBKQ6LISKEC0
+[2025.02.17-20.40.23:642][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/XKW7JJQB5XEBKQ6LISKEC00A4C76D44710179DF51142AE05B78E3D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/E/WV/XKW7JJQB5XEBKQ6LISKEC0.uasset'
+[2025.02.17-20.40.23:646][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/A/RB/WLV1N5S1S489SAXCKKPQG8
+[2025.02.17-20.40.23:646][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/WLV1N5S1S489SAXCKKPQG8CA9A47524970BF9EA8CAD6B9D8F165BD.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/A/RB/WLV1N5S1S489SAXCKKPQG8.uasset'
+[2025.02.17-20.40.23:649][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/6/1D/3ADHKR9XWC0SHH7PGYBSXH
+[2025.02.17-20.40.23:650][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/3ADHKR9XWC0SHH7PGYBSXH14FA359445DE65DDFEBC1EAD17BA259B.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/6/1D/3ADHKR9XWC0SHH7PGYBSXH.uasset'
+[2025.02.17-20.40.23:653][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/4/EO/CE5VI2G2Y7KDIXN7N7OBAO
+[2025.02.17-20.40.23:653][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/CE5VI2G2Y7KDIXN7N7OBAO7CD19CEE43AF4483D74EBE882D84AC15.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/4/EO/CE5VI2G2Y7KDIXN7N7OBAO.uasset'
+[2025.02.17-20.40.23:656][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/C/7X/PO89SXWG4R8LWJ0YNRVZKA
+[2025.02.17-20.40.23:656][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PO89SXWG4R8LWJ0YNRVZKA65FAABEA4E236C5F7731CDBBDF8F4190.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/C/7X/PO89SXWG4R8LWJ0YNRVZKA.uasset'
+[2025.02.17-20.40.23:658][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/9/WL/LJIEKJ2ZR5P1VBF10OF7IW
+[2025.02.17-20.40.23:659][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/LJIEKJ2ZR5P1VBF10OF7IWCED73D92436AA288026A0494B9BFA077.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/9/WL/LJIEKJ2ZR5P1VBF10OF7IW.uasset'
+[2025.02.17-20.40.23:661][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/A/SV/8NFCI1JT8YD73KQGV176HG
+[2025.02.17-20.40.23:661][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/8NFCI1JT8YD73KQGV176HG74AEAF2F463C325489015799866424F2.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/A/SV/8NFCI1JT8YD73KQGV176HG.uasset'
+[2025.02.17-20.40.23:664][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/C/HQ/FEZHLJWVB7BPF9DT68250T
+[2025.02.17-20.40.23:664][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/FEZHLJWVB7BPF9DT68250TA60BC97D4ACAA7E7866934A3BA874C12.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/C/HQ/FEZHLJWVB7BPF9DT68250T.uasset'
+[2025.02.17-20.40.23:667][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/6/HU/K03OFHNKXCFLOCW5XTFEDQ
+[2025.02.17-20.40.23:667][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/K03OFHNKXCFLOCW5XTFEDQ01ACACA14B56D7A0980D77BC0E65375B.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/6/HU/K03OFHNKXCFLOCW5XTFEDQ.uasset'
+[2025.02.17-20.40.23:670][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/2/W7/DR5FGVGLYRO0S6MRDR4B7Z
+[2025.02.17-20.40.23:670][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/DR5FGVGLYRO0S6MRDR4B7Z64E122994FD03C3138C7B8960B6A6B63.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/2/W7/DR5FGVGLYRO0S6MRDR4B7Z.uasset'
+[2025.02.17-20.40.23:673][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/3/0W/CC9XJDOFISBL5AZ9NQR3TY
+[2025.02.17-20.40.23:673][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/CC9XJDOFISBL5AZ9NQR3TY22115C1B4E797EA6F6BBD0A2461C8D9C.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/3/0W/CC9XJDOFISBL5AZ9NQR3TY.uasset'
+[2025.02.17-20.40.23:675][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/7/FA/QEZKTR8FSPT8O4BG9V5HCU
+[2025.02.17-20.40.23:676][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/QEZKTR8FSPT8O4BG9V5HCU2EA831BD40B78095586411A72EA4C775.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/7/FA/QEZKTR8FSPT8O4BG9V5HCU.uasset'
+[2025.02.17-20.40.23:678][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/E/SN/NDWD55UYE4WBRU2YJM5KX9
+[2025.02.17-20.40.23:678][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/NDWD55UYE4WBRU2YJM5KX9B16CE9F043676F2A5C9E1FAD455E292F.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/E/SN/NDWD55UYE4WBRU2YJM5KX9.uasset'
+[2025.02.17-20.40.23:681][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/NC/T06FIE0RK1IUCI2TZYV2Y6
+[2025.02.17-20.40.23:681][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/T06FIE0RK1IUCI2TZYV2Y628088B184C677537DB8D9AAD5BC8462A.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/NC/T06FIE0RK1IUCI2TZYV2Y6.uasset'
+[2025.02.17-20.40.23:684][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/3/BT/PEFRV86QSVTL4FZA7J2QZN
+[2025.02.17-20.40.23:684][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PEFRV86QSVTL4FZA7J2QZN97A3A1D44FB45CB7051F5997F292CC26.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/3/BT/PEFRV86QSVTL4FZA7J2QZN.uasset'
+[2025.02.17-20.40.23:687][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/1/8B/PNIAUATP6Q4SMVFTN43RLY
+[2025.02.17-20.40.23:687][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PNIAUATP6Q4SMVFTN43RLYE17AEE74418FE4525BCE5586ED8FB037.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/1/8B/PNIAUATP6Q4SMVFTN43RLY.uasset'
+[2025.02.17-20.40.23:690][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/7/I0/FCCAES1BL4WHAB71Z6XLRC
+[2025.02.17-20.40.23:690][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/FCCAES1BL4WHAB71Z6XLRCDD59AB1F442916250B601DBEB38F8178.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/7/I0/FCCAES1BL4WHAB71Z6XLRC.uasset'
+[2025.02.17-20.40.23:692][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/A/HR/8UQW8YSXEUETUBSHNINO1Y
+[2025.02.17-20.40.23:692][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/8UQW8YSXEUETUBSHNINO1YFB2336BB4460C6DA83C4B7816DE730CD.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/A/HR/8UQW8YSXEUETUBSHNINO1Y.uasset'
+[2025.02.17-20.40.23:694][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/NQ/PC1RYGBOPUUF34ZV4RKIF2
+[2025.02.17-20.40.23:695][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PC1RYGBOPUUF34ZV4RKIF2C7B2434949E3ABA7222CA296AC0A91A3.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/NQ/PC1RYGBOPUUF34ZV4RKIF2.uasset'
+[2025.02.17-20.40.23:697][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/5/6O/WV0SLQ4Y8XI8CMKTENKB6W
+[2025.02.17-20.40.23:697][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/WV0SLQ4Y8XI8CMKTENKB6WF78672554E4624C74AC6D69B12FE592C.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/5/6O/WV0SLQ4Y8XI8CMKTENKB6W.uasset'
+[2025.02.17-20.40.23:703][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/5/4H/PSTH2RNSO2ZLLGHSHZDTE8
+[2025.02.17-20.40.23:703][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PSTH2RNSO2ZLLGHSHZDTE8DC417B9F4777C578F7FE52A9068824E7.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/5/4H/PSTH2RNSO2ZLLGHSHZDTE8.uasset'
+[2025.02.17-20.40.23:706][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/CX/FXM81SPQ04GL2RFEP7LE99
+[2025.02.17-20.40.23:706][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/FXM81SPQ04GL2RFEP7LE9937F84F014727B80377BCF79D0E4B966D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/CX/FXM81SPQ04GL2RFEP7LE99.uasset'
+[2025.02.17-20.40.23:708][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/5/KA/AEA80LQEDWLEZW7BMSEZDD
+[2025.02.17-20.40.23:708][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/AEA80LQEDWLEZW7BMSEZDD83F0539B45E51A632AFF028D70A430D8.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/5/KA/AEA80LQEDWLEZW7BMSEZDD.uasset'
+[2025.02.17-20.40.23:711][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/7/T5/ASMIYZ359Z3TYWMBC242ZJ
+[2025.02.17-20.40.23:711][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/ASMIYZ359Z3TYWMBC242ZJ10E02F14450702FD5D3AC0ACDCEB4356.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/7/T5/ASMIYZ359Z3TYWMBC242ZJ.uasset'
+[2025.02.17-20.40.23:713][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/5/LL/D8I6GMA2SCA2N84K38DOE2
+[2025.02.17-20.40.23:713][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/D8I6GMA2SCA2N84K38DOE2F85805E44648CCDE37D6799553F9102D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/5/LL/D8I6GMA2SCA2N84K38DOE2.uasset'
+[2025.02.17-20.40.23:717][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/5/KI/UTXBKEWCMPV1F3WUG10P88
+[2025.02.17-20.40.23:717][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/UTXBKEWCMPV1F3WUG10P882FAB022A49264ED1458861A8BAD11951.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/5/KI/UTXBKEWCMPV1F3WUG10P88.uasset'
+[2025.02.17-20.40.23:719][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/1/9P/0BQ3TBN1TMW5ETWSD2YC9M
+[2025.02.17-20.40.23:719][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/0BQ3TBN1TMW5ETWSD2YC9M2AEC3EF44B80A6919CCE4AB3C89C3E4C.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/1/9P/0BQ3TBN1TMW5ETWSD2YC9M.uasset'
+[2025.02.17-20.40.23:722][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/2/JI/OV82ZF1GS0IP8JN65J3YTL
+[2025.02.17-20.40.23:722][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/OV82ZF1GS0IP8JN65J3YTL08FA21ED40094CF3B3E918B15F6D49FF.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/2/JI/OV82ZF1GS0IP8JN65J3YTL.uasset'
+[2025.02.17-20.40.23:725][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/B4/QA1D0EMC48EVBK5HTBTAJ3
+[2025.02.17-20.40.23:725][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/QA1D0EMC48EVBK5HTBTAJ3C40641A24787581A2B178D9B7BA16CFB.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/B4/QA1D0EMC48EVBK5HTBTAJ3.uasset'
+[2025.02.17-20.40.23:727][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/1/AM/5LT3Q08V2QNPYY6HX6VNXN
+[2025.02.17-20.40.23:727][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/5LT3Q08V2QNPYY6HX6VNXN3906A79940AF9DBE8EEAACA2B7ECCEFB.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/1/AM/5LT3Q08V2QNPYY6HX6VNXN.uasset'
+[2025.02.17-20.40.23:730][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/5/S0/DW5SMPRXY55QS1E3Q3L0A3
+[2025.02.17-20.40.23:730][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/DW5SMPRXY55QS1E3Q3L0A3E0D6C1294BA0F3E19FAC55A4BF53C5EF.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/5/S0/DW5SMPRXY55QS1E3Q3L0A3.uasset'
+[2025.02.17-20.40.23:733][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/3N/5HX4XFKFCSFTIBWFQUXPGX
+[2025.02.17-20.40.23:733][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/5HX4XFKFCSFTIBWFQUXPGXFE98E7E944F53E82397A3BAABF92DB18.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/3N/5HX4XFKFCSFTIBWFQUXPGX.uasset'
+[2025.02.17-20.40.23:736][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/6/0E/ZNG8ZFERGGE7UZ9J7988D1
+[2025.02.17-20.40.23:736][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/ZNG8ZFERGGE7UZ9J7988D14E1FB27245FE7B4ECE5833821E9C8E63.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/6/0E/ZNG8ZFERGGE7UZ9J7988D1.uasset'
+[2025.02.17-20.40.23:738][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/2/1H/LHTP2KF2WFD4GPHYR8VFVV
+[2025.02.17-20.40.23:738][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/LHTP2KF2WFD4GPHYR8VFVVADD8EE3C4DBE3DD5F4DF8C950C7AF6A4.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/2/1H/LHTP2KF2WFD4GPHYR8VFVV.uasset'
+[2025.02.17-20.40.23:741][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/B/9O/UJLW7QSDTO2RJ400ULEXHL
+[2025.02.17-20.40.23:741][418]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/UJLW7QSDTO2RJ400ULEXHL9DC08F0C4EE10DA80862599D51F7ABF6.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/B/9O/UJLW7QSDTO2RJ400ULEXHL.uasset'
+[2025.02.17-20.40.23:770][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 314.702 ms
+[2025.02.17-20.40.23:865][418]LogContentValidation: Display: Starting to validate 44 assets
+[2025.02.17-20.40.23:865][418]LogContentValidation: Enabled validators:
+[2025.02.17-20.40.23:871][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.17-20.40.23:871][418]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.17-20.40.23:871][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.17-20.40.23:871][418]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.17-20.40.23:871][418]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.17-20.40.23:871][418]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.17-20.40.23:872][418]AssetCheck: /Game/HollowayCabin Validating asset
+[2025.02.17-20.45.27:097][376]LogDerivedDataCache: C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.17-20.45.37:634][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28833.607422
+[2025.02.17-20.45.38:634][410]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-20.45.38:634][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28834.275391, Update Interval: 308.194214
+[2025.02.17-20.51.27:740][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29183.880859
+[2025.02.17-20.51.28:742][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-20.51.28:742][461]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29184.548828, Update Interval: 302.847382
+[2025.02.17-20.57.22:836][523]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29539.197266
+[2025.02.17-20.57.23:834][525]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-20.57.23:834][525]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29539.873047, Update Interval: 325.884583
+[2025.02.17-21.03.26:959][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29903.503906
+[2025.02.17-21.03.27:959][617]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-21.03.27:959][617]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29904.171875, Update Interval: 316.998199
+[2025.02.17-21.09.36:486][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30273.238281
+[2025.02.17-21.09.37:486][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-21.09.37:486][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30273.906250, Update Interval: 301.292755
+[2025.02.17-21.15.31:247][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30628.175781
+[2025.02.17-21.15.32:247][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-21.15.32:247][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30628.841797, Update Interval: 350.529480
+[2025.02.17-21.21.56:334][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31013.587891
+[2025.02.17-21.21.57:334][944]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-21.21.57:334][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31014.253906, Update Interval: 337.916809
+[2025.02.17-21.28.06:451][ 51]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31383.957031
+[2025.02.17-21.28.07:452][ 54]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-21.28.07:452][ 54]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31384.625000, Update Interval: 343.567627
+[2025.02.17-21.34.47:877][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31785.761719
+[2025.02.17-21.34.48:879][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-21.34.48:879][258]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31786.429688, Update Interval: 334.758148
+[2025.02.17-21.41.12:039][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32170.193359
+[2025.02.17-21.41.13:037][410]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-21.41.13:037][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32170.859375, Update Interval: 328.001343
+[2025.02.17-21.45.27:098][173]LogDerivedDataCache: C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.17-21.47.38:105][565]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32556.619141
+[2025.02.17-21.47.39:105][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-21.47.39:105][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32557.285156, Update Interval: 346.372864
+[2025.02.17-21.53.58:838][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32937.011719
+[2025.02.17-21.53.59:837][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-21.53.59:837][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32937.675781, Update Interval: 322.808319
+[2025.02.17-22.00.06:942][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33304.203125
+[2025.02.17-22.00.07:942][814]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-22.00.07:942][814]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33304.871094, Update Interval: 315.817139
+[2025.02.17-22.00.33:751][100]LogStreaming: Display: FlushAsyncLoading(840): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.17-22.00.35:350][100]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.515617 MB), EncodeSpeed: Fast
+[2025.02.17-22.00.54:250][717]LogStreaming: Display: FlushAsyncLoading(856): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.17-22.00.56:240][815]LogShaderCompilers: Display: ================================================
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Total job queries 805, among them cache hits 117 (14.53%), DDC hits 296 (36.77%), Duplicates 68 (8.45%)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Tracking 620 distinct input hashes that result in 286 distinct outputs (46.13%)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: RAM used: 223.56 KiB of 2.40 GiB budget. Usage: 0.01%
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Shaders Compiled: 66
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Jobs assigned 96, completed 66 (68.75%)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Average time worker was idle: 1661.81 s
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Time job spent in pending queue: average 9.31 s, longest 21.01 s
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Job execution time: average 5.27 s, max 7.27 s
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Job life time (pending + execution): average 11.44 s, max 21.02
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Shader code size: average 9.979 KiB, min 2.105 KiB, max 24.676 KiB
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 31.35 s
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 4.17 jobs/batch
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Average processing rate: 2.11 jobs/sec
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Total thread time: 55.159 s
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Total thread preprocess time: 8.191 s
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Percentage time preprocessing: 14.85%
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Effective parallelization: 1.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.71 sec, max 1.89 sec, min 1.48 sec)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 1.66 sec, max 5.21 sec, min 0.53 sec)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.59 sec, max 1.86 sec, min 1.14 sec)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.32 sec, max 1.46 sec, min 1.18 sec)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.27 sec, max 1.33 sec, min 1.24 sec)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.05% of total time (compiled    5 times, average 1.66 sec, max 5.21 sec, min 0.53 sec)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 12.39% of total time (compiled    4 times, average 1.71 sec, max 1.89 sec, min 1.48 sec)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.55% of total time (compiled    4 times, average 1.59 sec, max 1.86 sec, min 1.14 sec)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 9.23% of total time (compiled    4 times, average 1.27 sec, max 1.33 sec, min 1.24 sec)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 9.03% of total time (compiled   10 times, average 0.50 sec, max 0.79 sec, min 0.41 sec)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: === Material stats ===
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Materials Translated:    185
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Material Total Translate Time: 0.69 s
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Material Translation Only: 0.14 s (21%)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: Material Cache Hits: 29 (16%)
+[2025.02.17-22.00.56:241][815]LogShaderCompilers: Display: ================================================
+[2025.02.17-22.01.27:030][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-22.01.27:379][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.17-22.01.27:397][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.17-22.01.27:413][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.17-22.01.27:439][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:442][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:442][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:443][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:446][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:447][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:448][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:449][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:450][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:450][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:452][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:452][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:453][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:454][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:477][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:477][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:478][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:478][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:480][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:480][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:481][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:482][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:483][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:483][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:484][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:484][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:486][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:487][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:487][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:489][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:489][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:490][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:491][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:492][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:492][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:493][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:493][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:495][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:495][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:496][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:496][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:497][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:498][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:499][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:500][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:501][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:502][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:502][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:503][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:504][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:505][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:505][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:507][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:507][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:508][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:509][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:510][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:511][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:511][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:513][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:513][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:514][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:515][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:515][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:517][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:517][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:518][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:519][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:520][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:520][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:522][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:523][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:524][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:525][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:526][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:527][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:528][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:529][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:531][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:531][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:532][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:532][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:534][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:534][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:535][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:536][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:536][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:538][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:539][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:540][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:540][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:542][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:543][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:544][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:544][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:545][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:546][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:547][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:548][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:548][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:549][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:550][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:551][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:552][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:552][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:554][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:554][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:555][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:556][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:556][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:558][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:558][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:559][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:559][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:561][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:561][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:563][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:563][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:564][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:564][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:566][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:567][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:567][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:568][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:570][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:570][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:571][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:571][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:573][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:573][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:574][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:576][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:576][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:577][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:578][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:579][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:579][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:580][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:582][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:583][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:583][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:587][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:587][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:588][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:589][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:589][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:591][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:591][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:593][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:594][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:594][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:596][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:596][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:597][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:598][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:599][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:600][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:601][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:602][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:602][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:604][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:605][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:606][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:606][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:608][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:608][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:610][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:610][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:611][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:611][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:613][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:613][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:614][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:614][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:616][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:616][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:617][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:617][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:618][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:618][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:619][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:620][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:621][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:621][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:622][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:622][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:623][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:623][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:625][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:625][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:626][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:626][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:627][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:627][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:629][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:629][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:630][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:630][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:632][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:632][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:633][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:633][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:634][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:634][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:636][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:636][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:637][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:637][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:638][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:638][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:639][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:640][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:641][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:641][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:642][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:642][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:644][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:644][279]LogTexture: Display: Building textures: /Game/HollowayCabin.HollowayCabin:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.02.17-22.01.27:675][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/6/2O/K5HG8RLA28TKVHXF70KI8O
+[2025.02.17-22.01.27:675][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/K5HG8RLA28TKVHXF70KI8O50995A454E6D5F88190DD6A5FDEAC910.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/6/2O/K5HG8RLA28TKVHXF70KI8O.uasset'
+[2025.02.17-22.01.27:717][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/8/1X/7TD9PWDRX6TWWE7MQLBPWG
+[2025.02.17-22.01.27:717][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/7TD9PWDRX6TWWE7MQLBPWGF62B014D4949F14197C241AEA2E565B1.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/8/1X/7TD9PWDRX6TWWE7MQLBPWG.uasset'
+[2025.02.17-22.01.27:743][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/E/KI/09K6JIOZVQZCI5EYOQ5B30
+[2025.02.17-22.01.27:744][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/09K6JIOZVQZCI5EYOQ5B3039125B1846163888EB8E6AAC620DBC8B.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/E/KI/09K6JIOZVQZCI5EYOQ5B30.uasset'
+[2025.02.17-22.01.27:771][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/4/I8/XQ14HVKI3TCG36V4Q2IENF
+[2025.02.17-22.01.27:772][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/XQ14HVKI3TCG36V4Q2IENF0EE4374F4F28672135BF50BF973CC3D8.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/4/I8/XQ14HVKI3TCG36V4Q2IENF.uasset'
+[2025.02.17-22.01.27:799][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/7/3K/A9PB4MDK556W43FKTFTJF7
+[2025.02.17-22.01.27:800][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/A9PB4MDK556W43FKTFTJF75F8DDA0C422F361F1EDBE894704CE379.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/7/3K/A9PB4MDK556W43FKTFTJF7.uasset'
+[2025.02.17-22.01.27:830][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/3/TK/C2GJ4M8H3H9I1TNJPRXV00
+[2025.02.17-22.01.27:831][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/C2GJ4M8H3H9I1TNJPRXV002742101D4D8B4DDA9F77C881652EA61F.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/3/TK/C2GJ4M8H3H9I1TNJPRXV00.uasset'
+[2025.02.17-22.01.27:879][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/B/KW/YNLH3HH1CJCYJPOCB0BDUR
+[2025.02.17-22.01.27:879][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/YNLH3HH1CJCYJPOCB0BDURF54DED7E451B3E2CE3F336AC43411E94.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/B/KW/YNLH3HH1CJCYJPOCB0BDUR.uasset'
+[2025.02.17-22.01.27:907][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/E/NI/RXC7HXVVXLNQTQXSIWE0NN
+[2025.02.17-22.01.27:907][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/RXC7HXVVXLNQTQXSIWE0NN5B41C4B549CC235798817095AA1A1E09.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/E/NI/RXC7HXVVXLNQTQXSIWE0NN.uasset'
+[2025.02.17-22.01.27:935][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/8/BT/FKUBCNP8CQ0I2X5WGSOGHO
+[2025.02.17-22.01.27:936][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/FKUBCNP8CQ0I2X5WGSOGHOD13A678D40EC9B58E68DA7AB2810DE25.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/8/BT/FKUBCNP8CQ0I2X5WGSOGHO.uasset'
+[2025.02.17-22.01.27:964][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/B/P2/ARCMDPTOZ3BNQZ1R9CL3R3
+[2025.02.17-22.01.27:964][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/ARCMDPTOZ3BNQZ1R9CL3R300023BEF4AF20BFBEB788DA9EF4006F4.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/B/P2/ARCMDPTOZ3BNQZ1R9CL3R3.uasset'
+[2025.02.17-22.01.27:992][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/A/C2/9CDA6VQLRM2SJ6FHLOG8L1
+[2025.02.17-22.01.27:992][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/9CDA6VQLRM2SJ6FHLOG8L1AC7255DB460D976A8E08ABA99D05AFD4.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/A/C2/9CDA6VQLRM2SJ6FHLOG8L1.uasset'
+[2025.02.17-22.01.28:020][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/6/QT/EOCZYBCZTY62MDNT2OL4UV
+[2025.02.17-22.01.28:021][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/EOCZYBCZTY62MDNT2OL4UV893EC2C74819FC7A903268B3394DAC53.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/6/QT/EOCZYBCZTY62MDNT2OL4UV.uasset'
+[2025.02.17-22.01.28:046][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/C/9Y/5YOBCS9V6ML6Q6UAG7EY6Q
+[2025.02.17-22.01.28:046][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/5YOBCS9V6ML6Q6UAG7EY6QC8A292A14B8DC741DAB67288BC796187.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/C/9Y/5YOBCS9V6ML6Q6UAG7EY6Q.uasset'
+[2025.02.17-22.01.28:071][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/1/40/FVRQCYG4051VPSEWIHRYJD
+[2025.02.17-22.01.28:072][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/FVRQCYG4051VPSEWIHRYJDE08FE16C429F5F34C4864EAE5A5E6EA6.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/1/40/FVRQCYG4051VPSEWIHRYJD.uasset'
+[2025.02.17-22.01.28:122][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/F/3K/PX2TRJQ3VYBGBNDS21W8J9
+[2025.02.17-22.01.28:122][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/PX2TRJQ3VYBGBNDS21W8J9D16458844FA7EFEE270084B87D7BD98D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/F/3K/PX2TRJQ3VYBGBNDS21W8J9.uasset'
+[2025.02.17-22.01.28:151][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/6/59/OBCLM7COIZIHE6R215DVX3
+[2025.02.17-22.01.28:152][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/OBCLM7COIZIHE6R215DVX3056B93FF47E26E415DEAADB47C97F94D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/6/59/OBCLM7COIZIHE6R215DVX3.uasset'
+[2025.02.17-22.01.28:178][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/2/Q5/5ON6PY07HKXB280WO3G0CK
+[2025.02.17-22.01.28:178][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/5ON6PY07HKXB280WO3G0CKD01B50FB45AC1E0A33EDCC8B17BBC4B1.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/2/Q5/5ON6PY07HKXB280WO3G0CK.uasset'
+[2025.02.17-22.01.28:208][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/4/67/Z9FAL2ZGFDRFP5GBJFQDFU
+[2025.02.17-22.01.28:208][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Z9FAL2ZGFDRFP5GBJFQDFU10C8D8C749B076514CC58C85FA263931.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/4/67/Z9FAL2ZGFDRFP5GBJFQDFU.uasset'
+[2025.02.17-22.01.28:236][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/6/QS/7C1TJ3ZUY2KU6WM388TDRD
+[2025.02.17-22.01.28:236][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/7C1TJ3ZUY2KU6WM388TDRD419A5EB542026C05D2A2B192E08887C3.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/6/QS/7C1TJ3ZUY2KU6WM388TDRD.uasset'
+[2025.02.17-22.01.28:264][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/7/RX/1CBF206FASJWXC9TKU5CE4
+[2025.02.17-22.01.28:265][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/1CBF206FASJWXC9TKU5CE4E700D74E4388FFE9BEBCB4A586B11F25.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/7/RX/1CBF206FASJWXC9TKU5CE4.uasset'
+[2025.02.17-22.01.28:293][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/B/4J/67M4PDA97JWPGEJPEW5778
+[2025.02.17-22.01.28:294][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/67M4PDA97JWPGEJPEW5778BC7BCFD444DCB78D5E2E6EB4E59CD83B.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/B/4J/67M4PDA97JWPGEJPEW5778.uasset'
+[2025.02.17-22.01.28:319][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/SV/KLRT6I1HEN9S8XUE7A3C1M
+[2025.02.17-22.01.28:320][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/KLRT6I1HEN9S8XUE7A3C1M4BA49C274EB2F5BD636B93BB46F71E89.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/SV/KLRT6I1HEN9S8XUE7A3C1M.uasset'
+[2025.02.17-22.01.28:363][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/2/FV/73IAUDFDX4YP1EY1JYSKUO
+[2025.02.17-22.01.28:363][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/73IAUDFDX4YP1EY1JYSKUO84A609A4436E57583A588CABDFB0642D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/2/FV/73IAUDFDX4YP1EY1JYSKUO.uasset'
+[2025.02.17-22.01.28:390][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/2/SY/ED3GP9TBDIBOEWJ63PLHAP
+[2025.02.17-22.01.28:391][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/ED3GP9TBDIBOEWJ63PLHAPA6C3162D43EEA1C04EBE2DA873CC5461.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/2/SY/ED3GP9TBDIBOEWJ63PLHAP.uasset'
+[2025.02.17-22.01.28:425][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/C/MQ/BPOLR9CN9GEYRUH5KVDFR6
+[2025.02.17-22.01.28:426][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/BPOLR9CN9GEYRUH5KVDFR6EE6E5DDF4ECECC9E460E9E80B5BFBFF2.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/C/MQ/BPOLR9CN9GEYRUH5KVDFR6.uasset'
+[2025.02.17-22.01.28:452][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/9/0N/TJPU6JJFTPR6JK7GDGLRQU
+[2025.02.17-22.01.28:453][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/TJPU6JJFTPR6JK7GDGLRQUF913A51A446B81FAE45ED4B201261B63.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/9/0N/TJPU6JJFTPR6JK7GDGLRQU.uasset'
+[2025.02.17-22.01.28:478][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/9/BL/0YAP6LV5CHHMQW44NZVD57
+[2025.02.17-22.01.28:478][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/0YAP6LV5CHHMQW44NZVD579D0FC0834D49FA3EA55BCEBE4E8FA001.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/9/BL/0YAP6LV5CHHMQW44NZVD57.uasset'
+[2025.02.17-22.01.28:505][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/3/2K/7FKY542IX3C8WYLS9LRIEM
+[2025.02.17-22.01.28:505][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/7FKY542IX3C8WYLS9LRIEM18773C7D4894B51161B1B79CBE42D7E8.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/3/2K/7FKY542IX3C8WYLS9LRIEM.uasset'
+[2025.02.17-22.01.28:534][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/1/DR/3FTCOLO05CTU7PI0TAOQ2Q
+[2025.02.17-22.01.28:534][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/3FTCOLO05CTU7PI0TAOQ2Q7781692C440EDDB25EDC6EA7A039D9A5.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/1/DR/3FTCOLO05CTU7PI0TAOQ2Q.uasset'
+[2025.02.17-22.01.28:563][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/8/L3/OOPRUQ3VGXJZU6AIQ0BUWJ
+[2025.02.17-22.01.28:564][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/OOPRUQ3VGXJZU6AIQ0BUWJ6CC3C4FC445F3ED00021EB9052CFD6FC.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/8/L3/OOPRUQ3VGXJZU6AIQ0BUWJ.uasset'
+[2025.02.17-22.01.28:609][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/A/2I/RLJ70YVOULKO8FWTNXAY27
+[2025.02.17-22.01.28:609][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/RLJ70YVOULKO8FWTNXAY272D8CF29B4F4933E19CB9629B40500C3F.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/A/2I/RLJ70YVOULKO8FWTNXAY27.uasset'
+[2025.02.17-22.01.28:637][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/9/WZ/GHBQR5SZAL4A6SE561OKX9
+[2025.02.17-22.01.28:638][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/GHBQR5SZAL4A6SE561OKX92F2341374C74981A4B87AA9F5B553242.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/9/WZ/GHBQR5SZAL4A6SE561OKX9.uasset'
+[2025.02.17-22.01.28:664][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/HP/I4BNPBXPPFN6OSVIXZUFB1
+[2025.02.17-22.01.28:665][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/I4BNPBXPPFN6OSVIXZUFB1C6D0CE01487BF5CCAF700B8F3E007D0A.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/HP/I4BNPBXPPFN6OSVIXZUFB1.uasset'
+[2025.02.17-22.01.28:692][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/B/LB/76RPCGU5WJM5JIH9X6OZMC
+[2025.02.17-22.01.28:692][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/76RPCGU5WJM5JIH9X6OZMCE759BA094BE49D9389FEA0BFBB7F0004.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/B/LB/76RPCGU5WJM5JIH9X6OZMC.uasset'
+[2025.02.17-22.01.28:720][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/H5/QCIJ48JU5QJNQYRNNJXQWT
+[2025.02.17-22.01.28:721][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/QCIJ48JU5QJNQYRNNJXQWTF608B5474C5B77AF83F36093DA580708.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/H5/QCIJ48JU5QJNQYRNNJXQWT.uasset'
+[2025.02.17-22.01.28:749][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/1/UP/WHP4JHYSH3AOS1YQ9VRYNH
+[2025.02.17-22.01.28:749][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/WHP4JHYSH3AOS1YQ9VRYNH9E68AF8B4B2EDB739153B4BCEB983A3B.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/1/UP/WHP4JHYSH3AOS1YQ9VRYNH.uasset'
+[2025.02.17-22.01.28:777][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/C/MS/Z90XZI5QNZFVI8FHZFT6QI
+[2025.02.17-22.01.28:778][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/Z90XZI5QNZFVI8FHZFT6QI9572F27B43C6F3FBEC3826B5878E1571.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/C/MS/Z90XZI5QNZFVI8FHZFT6QI.uasset'
+[2025.02.17-22.01.28:806][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/1/EK/0GZANYI45HMK8IXZRSOXFA
+[2025.02.17-22.01.28:807][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/0GZANYI45HMK8IXZRSOXFA90D8F3D643C1E6F9EACA2FAFF4F9A06E.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/1/EK/0GZANYI45HMK8IXZRSOXFA.uasset'
+[2025.02.17-22.01.28:856][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/3/EN/QJP4ZXI15D4KLS2916UR73
+[2025.02.17-22.01.28:857][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/QJP4ZXI15D4KLS2916UR735B0E243E4F8298E7AD28B49DFB725C94.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/3/EN/QJP4ZXI15D4KLS2916UR73.uasset'
+[2025.02.17-22.01.28:883][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/9/N5/EOCLMXPEC9FVR8RERXUBO8
+[2025.02.17-22.01.28:883][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/EOCLMXPEC9FVR8RERXUBO83610C4644DEFDA4499C2AEA77141440D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/9/N5/EOCLMXPEC9FVR8RERXUBO8.uasset'
+[2025.02.17-22.01.28:909][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/A/41/S3K2V1ON385LHHF6RP9JHG
+[2025.02.17-22.01.28:910][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/S3K2V1ON385LHHF6RP9JHG9E6235D045D42C7560EF3D8135CCEA47.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/A/41/S3K2V1ON385LHHF6RP9JHG.uasset'
+[2025.02.17-22.01.28:941][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/C/Z9/D1YIAJ65Y01240JGLLT2WL
+[2025.02.17-22.01.28:942][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/D1YIAJ65Y01240JGLLT2WL95BCAC7E461F7ED1D1F05E80E355A3DB.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/C/Z9/D1YIAJ65Y01240JGLLT2WL.uasset'
+[2025.02.17-22.01.28:968][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/4/HD/NP49R1F5BSBRVUCTCIE72U
+[2025.02.17-22.01.28:969][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/NP49R1F5BSBRVUCTCIE72UF78261E04DF730336B5DEC8859EDCBCC.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/4/HD/NP49R1F5BSBRVUCTCIE72U.uasset'
+[2025.02.17-22.01.28:996][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/1/WH/BPD1T70SDQ7HWYXIWIAGEN
+[2025.02.17-22.01.28:997][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/BPD1T70SDQ7HWYXIWIAGEN33D4A94C4DB066206127DAAC14EEFAB2.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/1/WH/BPD1T70SDQ7HWYXIWIAGEN.uasset'
+[2025.02.17-22.01.29:026][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/E/GP/3KBJ6H5XLOA0A6649038BP
+[2025.02.17-22.01.29:027][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/3KBJ6H5XLOA0A6649038BP02C5D0424A675561DFC912A136DC4DC7.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/E/GP/3KBJ6H5XLOA0A6649038BP.uasset'
+[2025.02.17-22.01.29:055][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/9/VR/0ZJPB0UERG4SJAG9DOTS1D
+[2025.02.17-22.01.29:055][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/0ZJPB0UERG4SJAG9DOTS1DA6520B0E47A9F7654EC3E0AC2CDBF65F.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/9/VR/0ZJPB0UERG4SJAG9DOTS1D.uasset'
+[2025.02.17-22.01.29:094][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/7/K3/KPUOJ635W7G0YTZS2RD6PU
+[2025.02.17-22.01.29:095][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/KPUOJ635W7G0YTZS2RD6PU707FEFA14F4D868EC5B145B6BE0B7E6D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/7/K3/KPUOJ635W7G0YTZS2RD6PU.uasset'
+[2025.02.17-22.01.29:121][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/B/34/5FE6BV1SBV6CXA05NCT4SW
+[2025.02.17-22.01.29:122][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/5FE6BV1SBV6CXA05NCT4SW72B4539446BEF3951B7C959A2F3D724D.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/B/34/5FE6BV1SBV6CXA05NCT4SW.uasset'
+[2025.02.17-22.01.29:147][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/8/2M/HCHGL8X62BKN73Q9S1PFIM
+[2025.02.17-22.01.29:148][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/HCHGL8X62BKN73Q9S1PFIMB1A419604B8F5F0761ACE0B041D7FE3F.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/8/2M/HCHGL8X62BKN73Q9S1PFIM.uasset'
+[2025.02.17-22.01.29:174][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/8/Q0/KOWKJS9BBMNFPHY9FXCAG9
+[2025.02.17-22.01.29:175][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/KOWKJS9BBMNFPHY9FXCAG9C7DD90974230299E69C1BBB3E181E0C7.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/8/Q0/KOWKJS9BBMNFPHY9FXCAG9.uasset'
+[2025.02.17-22.01.29:203][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/9U/3KYOV8WX6YO5EMY5SB711T
+[2025.02.17-22.01.29:204][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/3KYOV8WX6YO5EMY5SB711T0C2B78644C753C88056FDDA0992D3A85.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/9U/3KYOV8WX6YO5EMY5SB711T.uasset'
+[2025.02.17-22.01.29:232][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/8/B9/9OCW06FYQFLFCPD8GOBC4K
+[2025.02.17-22.01.29:233][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/9OCW06FYQFLFCPD8GOBC4KCA7ECFBE4C70A4E424F53F9CB043DC51.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/8/B9/9OCW06FYQFLFCPD8GOBC4K.uasset'
+[2025.02.17-22.01.29:260][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/E/49/LROUFVID4KBQK34PCNZQ57
+[2025.02.17-22.01.29:260][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/LROUFVID4KBQK34PCNZQ572A169B51453F13B62A7E19B1B718D9F7.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/E/49/LROUFVID4KBQK34PCNZQ57.uasset'
+[2025.02.17-22.01.29:286][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/0/6C/9C0ZHVY8RFQFNSVISHU3GW
+[2025.02.17-22.01.29:287][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/9C0ZHVY8RFQFNSVISHU3GW66B6BF9E4770B9E52661FBBB454510AE.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/0/6C/9C0ZHVY8RFQFNSVISHU3GW.uasset'
+[2025.02.17-22.01.29:324][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/9/VX/KUN6VPJJ0986XMOGUBQC30
+[2025.02.17-22.01.29:325][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/KUN6VPJJ0986XMOGUBQC305662EE244777814EAEAE00BBEC1F3AAB.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/9/VX/KUN6VPJJ0986XMOGUBQC30.uasset'
+[2025.02.17-22.01.29:352][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/D/4A/GUHJMWC081C9F3YK7HCM27
+[2025.02.17-22.01.29:353][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/GUHJMWC081C9F3YK7HCM2723BD1D6A430AD5B2298DCA9AD1D8BD51.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/D/4A/GUHJMWC081C9F3YK7HCM27.uasset'
+[2025.02.17-22.01.29:379][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/2/XX/E4NPA2G3BHTC2LPUQ5TMOR
+[2025.02.17-22.01.29:379][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/E4NPA2G3BHTC2LPUQ5TMORA1A52FD04290AFF7B8BAB7A957D54DE8.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/2/XX/E4NPA2G3BHTC2LPUQ5TMOR.uasset'
+[2025.02.17-22.01.29:405][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/7/8K/YEGNCEABG47VNV71O90RCO
+[2025.02.17-22.01.29:405][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/YEGNCEABG47VNV71O90RCO32FA9E54473BBAEE4C9C26A538FE9A57.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/7/8K/YEGNCEABG47VNV71O90RCO.uasset'
+[2025.02.17-22.01.29:434][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/4/ZI/G4X70OY8JHAR008J7JYPNC
+[2025.02.17-22.01.29:435][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/G4X70OY8JHAR008J7JYPNC39E89F9643C055CC8B4463848C0E4DF1.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/4/ZI/G4X70OY8JHAR008J7JYPNC.uasset'
+[2025.02.17-22.01.29:461][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/HollowayCabin/A/XU/NWRWGU1QAALXN7LMHNKOYF
+[2025.02.17-22.01.29:462][279]LogSavePackage: Moving '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Saved/NWRWGU1QAALXN7LMHNKOYF49ADD18143E9C725E74948911F9B2905.tmp' to '../../../../../github repos/Shadows-of-Brightwell-unreal-version/ShadowsofBrightwell/Content/__ExternalActors__/HollowayCabin/A/XU/NWRWGU1QAALXN7LMHNKOYF.uasset'
+[2025.02.17-22.01.29:473][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.44 sec (total: 2.75 sec)
+[2025.02.17-22.01.29:536][279]LogContentValidation: Display: Starting to validate 60 assets
+[2025.02.17-22.01.29:536][279]LogContentValidation: Enabled validators:
+[2025.02.17-22.01.29:536][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.17-22.01.29:536][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.17-22.01.29:536][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.17-22.01.29:536][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.17-22.01.29:536][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.17-22.01.29:536][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.17-22.01.29:537][279]AssetCheck: /Game/HollowayCabin Validating asset
+[2025.02.17-22.01.30:630][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.02.17-22.01.30:692][346]LogStall: Shutdown...
+[2025.02.17-22.01.30:692][346]LogStall: Shutdown complete.
+[2025.02.17-22.01.30:723][346]LogSlate: Window 'ShadowsofBrightwell - Unreal Editor' being destroyed
+[2025.02.17-22.01.30:982][346]Cmd: QUIT_EDITOR
+[2025.02.17-22.01.30:982][347]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.02.17-22.01.31:016][347]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.02.17-22.01.31:022][347]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.02.17-22.01.31:022][347]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.02.17-22.01.31:100][347]LogWorld: UWorld::CleanupWorld for HollowayCabin, bSessionEnded=true, bCleanupResources=true
+[2025.02.17-22.01.31:132][347]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2025.02.17-22.01.31:133][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.17-22.01.31:133][347]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/HollowayCabin.HollowayCabin
+[2025.02.17-22.01.31:214][347]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.02.17-22.01.31:276][347]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.02.17-22.01.31:383][347]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.17-22.01.31:383][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.17-22.01.31:387][347]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.02.17-22.01.31:387][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.17-22.01.31:388][347]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.17-22.01.31:389][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.17-22.01.31:406][347]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.02.17-22.01.31:418][347]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.02.17-22.01.31:418][347]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.02.17-22.01.31:418][347]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.02.17-22.01.31:439][347]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.02.17-22.01.31:439][347]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.02.17-22.01.31:439][347]LogAudio: Display: Audio Device unregistered from world 'HollowayCabin'.
+[2025.02.17-22.01.31:439][347]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.02.17-22.01.31:439][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.17-22.01.31:444][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.17-22.01.31:470][347]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.02.17-22.01.31:470][347]LogAudio: Display: Audio Device Manager Shutdown
+[2025.02.17-22.01.31:471][347]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.02.17-22.01.31:477][347]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.02.17-22.01.31:477][347]LogExit: Preparing to exit.
+[2025.02.17-22.01.31:748][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.02.17-22.01.32:585][347]LogEditorDataStorage: Deinitializing
+[2025.02.17-22.01.33:968][347]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.02.17-22.01.34:333][347]LogExit: Editor shut down
+[2025.02.17-22.01.34:344][347]LogExit: Transaction tracking system shut down
+[2025.02.17-22.01.36:539][347]LogExit: Object subsystem successfully closed.
+[2025.02.17-22.01.36:637][347]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.02.17-22.01.37:385][347]LogMemoryProfiler: Shutdown
+[2025.02.17-22.01.37:386][347]LogNetworkingProfiler: Shutdown
+[2025.02.17-22.01.37:386][347]LoadingProfiler: Shutdown
+[2025.02.17-22.01.37:392][347]LogTimingProfiler: Shutdown
+[2025.02.17-22.01.38:433][347]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.02.17-22.01.38:490][347]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.02.17-22.01.38:490][347]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26CD0873-4CCC-1195-CCD3-C19F42AB136B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=93e7a4624a5fbb78ae5b0fb44b3ec1ad%7C97324cbe4562404b8e929a19fb1c6a7f%7Cf12bab13-ab1e-4ce5-bc66-94d57a3f30bb&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.02.17-22.01.39:829][347]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.02.17-22.01.39:829][347]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.02.17-22.01.39:829][347]LogNFORDenoise: NFORDenoise function shutting down
+[2025.02.17-22.01.39:829][347]RenderDocPlugin: plugin has been unloaded.
+[2025.02.17-22.01.39:907][347]LogXGEController: Cleaning working directory: C:/Users/William/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.02.17-22.01.41:188][347]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.02.17-22.01.41:188][347]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.02.17-22.01.41:188][347]LogPakFile: Destroying PakPlatformFile
+[2025.02.17-22.01.42:288][347]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.02.17-22.01.42:624][347]LogExit: Exiting.
+[2025.02.17-22.01.42:642][347]Log file closed, 02/17/25 22:01:42
